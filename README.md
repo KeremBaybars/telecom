@@ -15,3 +15,4 @@ Or you can run the tests directly with the following command:
 - mvn clean test spring-boot:run
 
 # Copyright
+LICENSE
